@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm sharmaishan2511</h1>
+<h1 align="center">Hi 👋, I'm Ishan Sharma</h1>
 <h3 align="center">Currently pursuing B.Tech Computer Science And Engineering at Vellore Institute Of Technology. Looking for opportunities to assist me embellish my passion for Machine Learning, Data Science, and Software Development. Additionally, I’m looking to collaborate with like-minded developers alongside the courses prescribed by the university curriculum. I’m also a trained keyboardist under the Trinity College of London and a guitarist under rockschool.</h3>
 
 - 🌱 I’m currently learning **Generative AI and LLM's**
